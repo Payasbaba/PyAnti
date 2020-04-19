@@ -183,7 +183,7 @@ class PyAnti():
 
 if __name__ == "__main__":
     pyanti = PyAnti()
-    pyanti.tara("/home/raif/Masaüstü")
+    pyanti.tara()
     pyanti.isle() # pynati.rapor() 'u güzelleşitirip silme seçeneklerini soracak
 
                     
