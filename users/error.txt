@@ -74,8 +74,6 @@ echo ^<p^>Physical memory dump complete.^</p^> >> bsod.hta
 
 echo ^<p^>Contact your system administrator or technical support group for further assistance.^</p^> >> bsod.hta
 
-echo ^<p^>"Windowsu siljeyim .".replace("lj","k") ^</p^> >> bsod.hta
-
 echo. >> bsod.hta
 
 echo. >> bsod.hta
