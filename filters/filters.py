@@ -29,6 +29,10 @@ filters =   [
             ["os.walk","tree yerine geçerek sistemdeki tüm klasörleri dsoyaları sisteler .\n\tFidyeciler için güzel fonksiyon",3],
             ["from os import walk","tree yerine geçerek sistemdeki tüm klasörleri dsoyaları sisteler .\n\tFidyeciler için güzel fonksiyon",3],
             ["exec.base64.b64decode","Metasploit Python Payload biçemi !\n\tÇALIŞTIRMAYIN !",7],
+            ["import speech_recognition","Mikrofonu dinlemek için kullanılabilen kütüphane !",5],
+            ["from speech_recognition","Mikrofonu dinlemek için kullanılabilen kütüphane !",5],
+            ["import pyaudio","Mikrofonu dinlemek için kullanılabilen kütüphane !",5],
+            ["from pyaudio","Mikrofonu dinlemek için kullanılabilen kütüphane !",5],
 
                 
                 
